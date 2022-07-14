@@ -1,0 +1,17 @@
+---
+title: "Simple Website"
+author: "Nicole Assenza"
+date: "7/14/2022`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+###WELCOME TO MY GITHUB!
+
+### ABOUT ME
+### I'm a MSDS graduate student at SMU, with an undergrad degree in Neuroscience from UTD. The tabs on this website link to my other work. Please check them out. For my resume, image and some highlighted projects, please go to: https://nicoleassenza.weebly.com/
+
+
+
